@@ -1,0 +1,52 @@
+body{
+    background-image: linear-gradient(to right, rgb(208, 243, 230) , rgb(156, 215, 253));
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:15vh ;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:14vh ;
+    font-family: 'Dancing Script', cursive;
+
+
+}
+#demo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:4vh ;
+}
+#vize{
+    outline: none;
+    padding: 5px 5px;
+    border:none;
+    border-radius: 3px;
+    margin-right:.5vh
+}
+#final{
+    outline: none;
+    padding: 5px 5px;
+    border:none;
+    border-radius: 3px;
+    margin-right:.5vh
+}
+.buton{
+    outline: none;
+    padding: 5px 5px;
+    border:none;
+    border-radius: 3px;
+    margin-right:.5vh;
+    cursor:pointer;
+    background-color: white;
+}
+.buton:hover{
+    opacity: 0.8;
+    background-color: rgb(221, 216, 207);
+}
